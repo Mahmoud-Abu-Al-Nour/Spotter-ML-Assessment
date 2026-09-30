@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# Development
+scratch/
+
+# Assessment datasets
+train-test.csv
+validation.csv
+validation-predictions-template.csv
+december-chart-inputs.csv
+
+# Assessment reference
+freight-rate-ml-assessment.pdf
+
+# Internal development documents
+TECHNICAL_REVIEW.md
+TECHNICAL_REVIEW_V2.md
+EXPERIMENTS_V2.md
+REPORT_VALIDATION.md
+REFACTOR_CHECK.md
+FINAL_REPOSITORY_AUDIT.md
+FINAL_GIT_PREP.md
